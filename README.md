@@ -11,7 +11,8 @@ Duration: December 2024 to January 2025
 
 Mentor: SRAVANI GOUNI
 
-# Overview of the Project
+# Overview of the Project:
+
 # Project: Library Management System
 
 # A] objective:
