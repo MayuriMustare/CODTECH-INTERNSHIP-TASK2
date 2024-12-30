@@ -1,0 +1,181 @@
+{
+  "items": [
+    {
+      "id": "B001",
+      "title": "The Great Gatsby",
+      "creator": "F. Scott Fitzgerald",
+      "category": "Fiction",
+      "year": 1925,
+      "type": "book",
+      "checked_out": false,
+      "borrower": null,
+      "checkout_date": null
+    },
+    {
+      "id": "B002",
+      "title": "1984",
+      "creator": "George Orwell",
+      "category": "Dystopian",
+      "year": 1949,
+      "type": "book",
+      "checked_out": false,
+      "borrower": null,
+      "checkout_date": null
+    },
+    {
+      "id": "M001",
+      "title": "National Geographic",
+      "creator": "NatGeo Editors",
+      "category": "Science",
+      "year": 2024,
+      "type": "magazine",
+      "checked_out": true,
+      "borrower": "Mayuri",
+      "checkout_date": "2024-12-28T21:16:47.316063"
+    },
+    {
+      "id": "M002",
+      "title": "Time Magazine",
+      "creator": "Time  Editors",
+      "category": "Current Events",
+      "year": 2024,
+      "type": "magazine",
+      "checked_out": false,
+      "borrower": null,
+      "checkout_date": null
+    },
+    {
+      "id": "D001",
+      "title": "The Lord of the Rings",
+      "creator": "Peter Jackson",
+      "category": "Fantasy",
+      "year": 2001,
+      "type": "dvd",
+      "checked_out": false,
+      "borrower": null,
+      "checkout_date": null
+    },
+    {
+      "id": "D002",
+      "title": "The Matrix",
+      "creator": "The Wachowskis",
+      "category": "Sci-Fi",
+      "year": 1999,
+      "type": "dvd",
+      "checked_out": false,
+      "borrower": null,
+      "checkout_date": null
+    },
+    {
+      "id": "A001",
+      "title": "Inception",
+      "creator": "Christopher Nolan",
+      "category": "Sci-Fi",
+      "year": 2010,
+      "type": "dvd",
+      "checked_out": false,
+      "borrower": null,
+      "checkout_date": null
+    },
+    {
+      "id": "A002",
+      "title": "Frozen",
+      "creator": "Jennifer Lee, Chris Buck",
+      "category": "Animation",
+      "year": 2013,
+      "type": "dvd",
+      "checked_out": false,
+      "borrower": null,
+      "checkout_date": null
+    },
+    {
+      "id": "A003",
+      "title": "Avatar",
+      "creator": "James Cameron",
+      "category": "Sci-Fi",
+      "year": 2009,
+      "type": "dvd",
+      "checked_out": false,
+      "borrower": null,
+      "checkout_date": null
+    },
+    {
+      "id": "A004",
+      "title": "Titanic",
+      "creator": "James Cameron",
+      "category": "Drama",
+      "year": 1997,
+      "type": "dvd",
+      "checked_out": true,
+      "borrower": "Vaibhav",
+      "checkout_date": "2024-12-28T21:17:37.455220"
+    },
+    {
+      "id": "A005",
+      "title": "Toy Story",
+      "creator": "John Lasseter",
+      "category": "Animation",
+      "year": 1995,
+      "type": "dvd",
+      "checked_out": false,
+      "borrower": null,
+      "checkout_date": null
+    },
+    {
+      "id": "A006",
+      "title": "Harry potter and the Sorcerer's Stone",
+      "creator": "J.k.Rowling",
+      "category": "Fantasy",
+      "year": 1997,
+      "type": "book",
+      "checked_out": false,
+      "borrower": null,
+      "checkout_date": null
+    },
+    {
+      "id": "A007",
+      "title": "Twilight",
+      "creator": "stephenie Meyer",
+      "category": "Romance",
+      "year": 2005,
+      "type": "book",
+      "checked_out": false,
+      "borrower": null,
+      "checkout_date": null
+    },
+    {
+      "id": "A008",
+      "title": "The White Tiger",
+      "creator": "Aravind Adiga",
+      "category": "Fiction",
+      "year": 2008,
+      "type": "book",
+      "checked_out": false,
+      "borrower": null,
+      "checkout_date": null
+    },
+    {
+      "id": "A009",
+      "title": "Train to Pakistan",
+      "creator": "Khushwant Singh",
+      "category": "Historical",
+      "year": 1956,
+      "type": "book",
+      "checked_out": true,
+      "borrower": "Madhav",
+      "checkout_date": "2024-12-28T21:18:24.563487"
+    },
+    {
+      "id": "B003",
+      "title": "India Today",
+      "creator": "India Today Editors",
+      "category": "Current Events",
+      "year": 2024,
+      "type": "magazine",
+      "checked_out": false,
+      "borrower": null,
+      "checkout_date": null
+    }
+  ],
+  "fines": {}
+}
