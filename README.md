@@ -44,7 +44,7 @@ Shows all outstanding fines for overdue items.
 8. Error Handling:
 Ensures graceful handling of errors, such as duplicate IDs, invalid operations, or missing items.
 
-# c] Technologies Used:
+# C] Technologies Used:
 
 1. Python Standard Library:
 argparse: For parsing command-line arguments and subcommands.
