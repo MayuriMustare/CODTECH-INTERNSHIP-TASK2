@@ -6,6 +6,9 @@ Domain: Python Programming Intern
 Duration: December 2024 to January 2025 
 Mentor: SRAVANI GOUNI
 
+Objective
+The code implements a Library Resource Management System that provides a command-line interface (CLI) to manage library resources. It allows users to perform operations like adding, checking out, returning items, searching for items, listing all items, and displaying overdue fines. This system is designed to streamline library management and track items and borrowers efficiently.
+
 # Add a new book
 python main.py add --id "B001" --title "The Great Gatsby" --creator "F. Scott Fitzgerald" --category "Fiction" --year 1925 --type book
 
