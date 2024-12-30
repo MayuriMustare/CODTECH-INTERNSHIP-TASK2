@@ -3,7 +3,8 @@ Name: MAYURI MUSTARE
 Company: CODTECH IT SOLUTION
 ID: CT08EYS
 Domain: Python Programming Intern
-Duration: December 2024 to January 2025  Mentor: SRAVANI GOUNI
+Duration: December 2024 to January 2025 
+Mentor: SRAVANI GOUNI
 
 # Add a new book
 python main.py add --id "B001" --title "The Great Gatsby" --creator "F. Scott Fitzgerald" --category "Fiction" --year 1925 --type book
