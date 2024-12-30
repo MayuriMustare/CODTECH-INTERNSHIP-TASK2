@@ -29,7 +29,7 @@ Users can add a new library item (book, magazine, or DVD) with attributes like I
 3. Checking Out Items:
 Allows a borrower to check out a library item using its unique ID and borrower's name.
 
- 4.Returning Items:
+4.Returning Items:
 Facilitates returning an item. If overdue, it calculates and displays the fine.
 
 5. Searching Items:
